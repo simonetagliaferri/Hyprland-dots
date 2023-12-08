@@ -2,7 +2,7 @@
 - **Terminal** • [Kitty](https://github.com/kovidgoyal/kitty)
 - **Panel** • [Waybar](https://github.com/Alexays/Waybar)
 - **Notify Daemon** • [Dunst](https://github.com/dunst-project/dunst)
-- **Launcher** • [Rofi](https://github.com/davatorium/rofi)
+- **Launcher** • [Rofi](https://github.com/davatorium/rofi) custom theme by [adi1090x](https://github.com/adi1090x/rofi)
 - **File Manager** • Thunar
 - **GTK Theme** • [Gruvbox](https://github.com/Fausto-Korpsvart/Gruvbox-GTK-Theme)
 - **Icons** • [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)
