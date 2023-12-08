@@ -13,7 +13,7 @@
     text_icon_padding = 0
     frame_width = 2
 
-    frame_color = "#5F332F"
+    frame_color = "#FFD8C39D"
     separator_color = frame
 
     sort = yes
@@ -33,7 +33,7 @@
     min_icon_size = 0
     max_icon_size = 64
 
-    icon_path = /usr/share/icons/Gruvbox-Dark/16x16/status/:/usr/share/icons/Gruvbox-Dark/16x16/devices/:/usr/share/icons/Gruvbox-Dark/16x16/actions/:/usr/share/icons/Gruvbox-Dark/16x16/animations/:/usr/share/icons/Gruvbox-Dark/16x16/apps/:/usr/share/icons/Gruvbox-Dark/16x16/categories/:/usr/share/icons/Gruvbox-Dark/16x16/emblems/:/usr/share/icons/Gruvbox-Dark/16x16/emotes/:/usr/share/icons/Gruvbox-Dark/16x16/devices/mimetypes:/usr/share/icons/Gruvbox-Dark/16x16/panel/:/usr/share/icons/Gruvbox-Dark/16x16/places/
+    icon_path = /usr/share/icons/Papirus/16x16/status/:/usr/share/icons/Papirus/16x16/devices/:/usr/share/icons/Papirus/16x16/actions/:/usr/share/icons/Papirus/16x16/animations/:/usr/share/icons/Papirus/16x16/apps/:/usr/share/icons/Papirus/16x16/categories/:/usr/share/icons/Papirus/16x16/emblems/:/usr/share/icons/Papirus/16x16/emotes/:/usr/share/icons/Papirus/16x16/devices/mimetypes:/usr/share/icons/Papirus/16x16/panel/:/usr/share/icons/Papirus/16x16/places/
 
     dmenu = /usr/bin/rofi -p dunst:
     browser = /usr/bin/microsoft-edge-beta --new-tab
@@ -45,14 +45,14 @@
     timeout = 5
 
 [urgency_low]
-    background = "#1D2021"
-    foreground = "#5F332F"
+    background = "#333532"
+    foreground = "#FFD8C39D"
 
 [urgency_normal]
-    background = "#1D2021"
-    foreground = "#E8E3E3"
+    background = "#333532"
+    foreground = "#FFD8C39D"
 
 [urgency_critical]
-    background = "#1D2021"
-    foreground = "#AD685A"
-    frame_color = "#DD8F6E"
+    background = "#333532"
+    foreground = "#C83232"
+    frame_color = "#FFD8C39D"
