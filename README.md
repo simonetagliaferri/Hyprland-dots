@@ -9,4 +9,4 @@
 
 ## Setup
 
-<img align="center" src="https://imgur.com/a/OJxSwKD.png">
+<img src="https://imgur.com/e4QsPEa.png">
