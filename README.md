@@ -6,7 +6,7 @@
 - **File Manager** • Thunar
 - **GTK Theme** • [Gruvbox](https://github.com/Fausto-Korpsvart/Gruvbox-GTK-Theme)
 - **Icons** • [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)
-- **Wallpaper** • [Gruvbox Wallpaper](https://wallpapercave.com/w/wp11058374)
+- **Wallpaper** • [Gruvbox Wallpaper](https://wallpaperaccess.com/download/gruvbox-7731935)
 
 ## Setup
 
