@@ -10,4 +10,6 @@
 
 ## Setup
 
+<img src="https://imgur.com/2ac4SkZ.png">
 <img src="https://imgur.com/e4QsPEa.png">
+<img src="https://imgur.com/lL4ROSF.png">
